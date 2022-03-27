@@ -1,5 +1,5 @@
 # App
-Тестим Ангуляр, просто интересно
+Тестим Ангуляр, просто интересно.
 Приложение для отслеживания потраченного времени, на подобии помодоро
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
